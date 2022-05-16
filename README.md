@@ -10,4 +10,5 @@ As an overarching theoretical framework, we draw on the life course paradigm (Ba
 
 _Graph: TREE2: Theoretical framework and foci of the TREE2 survey programme_
 
+![image](https://user-images.githubusercontent.com/91122341/168562156-f0c7e18b-bb74-4477-93f5-32630b350875.png)
 
