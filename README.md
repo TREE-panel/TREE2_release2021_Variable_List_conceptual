@@ -8,4 +8,6 @@ Theoretical framework and topical order
 
 As an overarching theoretical framework, we draw on the life course paradigm (Baltes, 1990; Blossfeld, von Maurice, Bayer, & Skopek, 2016; Elder, 1994; Schoon & Silbereisen, 2009), which has been systematised by Bernardi et al. (2019) in a three-dimensional matrix accounting for temporal interdependencies as well as interdependencies between different levels resp. life domains (for more detail cf. Hupka-Brunner, Krebs-Oesch, Sacchi, & Meyer, forthcoming). The figure below adapts Bernardi et al.’s life course cube to the specific purposes  of the TREE study. 
 
+__Graph: TREE2: Theoretical framework and foci of the TREE2 survey programme__
+
 
