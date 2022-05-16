@@ -24,7 +24,7 @@ In the life domain "Education - Employment" a distinction is made between the to
 
 TREE strives to implement concepts that can be analyzed from different theoretical perspectives. In this respect and beyond the attribution between concept and theory made here, there may be other theoretical attributions. This topical classification therefore makes no claim to completeness or unambiguity of attributions.
 
-###Technical features
+### Technical features
 
 Only survey variables are listed in the "Topic list" worksheet. Variables that represent technical data (e.g. sampling or mode information, weights) are listed in the "Not in topic list" worksheet.
 
