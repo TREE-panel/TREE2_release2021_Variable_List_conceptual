@@ -1,6 +1,6 @@
 #  Conceptual list of variables, panel waves 0-2 (2016-2018)
 
-Concept and objective of [this document]([url](https://github.com/TREE-panel/TREE2_release2021_Variable_List_conceptual/raw/main/TREE2_Variable_List_conceptual.xlsx))
+Concept and objective of [this document](https://github.com/TREE-panel/TREE2_release2021_Variable_List_conceptual/raw/main/TREE2_Variable_List_conceptual.xlsx)
 
 This document is intended to help data users find their way around at the conceptual-content level. In this file, all variables available in the TREE2 data release are arranged topically. In addition, the survey time and mode as well as the sources are indicated. The topical order follows the theoretical framework of TREE, which is illustrated in the section below.
 
